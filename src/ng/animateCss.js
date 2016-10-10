@@ -1,5 +1,7 @@
 'use strict';
 
+console.log('TOBY WAS HERE!');
+
 /* exported $CoreAnimateCssProvider */
 
 /**
